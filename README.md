@@ -34,7 +34,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
 <br /><hr /><br />
 <h3 align="left">Languages and Tools:</h3>
  <p align="center" dir="auto">
