@@ -34,7 +34,7 @@
 <a href="https://api.whatsapp.com/send?phone=201021146420" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
 
-<a href="[https://x.com/mahmoud63674577" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
+<a href="https://x.com/mahmoud63674577" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
          alt="Twitter (X)" 
          style="max-width: 100%; height: auto;"></a>
