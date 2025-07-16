@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **mtmt15825@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -47,21 +47,9 @@
     <img src="https://img.shields.io/badge/Codeforces-%231877F2.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
         alt="Codeforces Profile" 
         style="max-width: 100%; height: auto;"></a>
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
-        alt="CCNA" style="max-width: 100%;"></a>
      <a href="https://isocpp.org/" title="C++" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
             alt="C++" style="max-width: 100%;"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-            alt="CSharp" style="max-width: 100%;"></a>
-    <a href="https://www.oracle.com/java/" title="Java" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
-            alt="Java" style="max-width: 100%;"></a>
-     <a href="https://www.python.org/" title="Python" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-            alt="Python" style="max-width: 100%;"></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" style="max-width: 100%;"></a>
