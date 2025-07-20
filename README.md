@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Tantawy</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mahmoud+Tantawy....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt</h3>
 <hr />
 <br />
@@ -6,7 +10,7 @@
 <img align="right" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace">
 <br />
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on something cool 😉
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -14,6 +18,8 @@
 
 - 📫 How to reach me **mtmt15825@gmail.com**
 
+- 👨‍💻  Read more about my projects at mahmoud.com
+  
 - ⚡ Fun fact **I am Funny**
 
 <br />
