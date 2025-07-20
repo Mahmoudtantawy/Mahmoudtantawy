@@ -3,7 +3,7 @@
 <hr />
 <br />
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace">
 <br />
 
 - 🔭 I’m currently working on **Vexa Web App**
