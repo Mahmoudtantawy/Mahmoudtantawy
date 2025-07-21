@@ -7,7 +7,7 @@
 <hr />
 <br />
 
-<img align="right" width="300" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace">
+<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace">
 <br />
 
 - 🔭 I’m currently working on something cool 😉
