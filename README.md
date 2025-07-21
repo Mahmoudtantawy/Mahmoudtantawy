@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **DevOps**
+- 📚 I’m currently learning about Frontend and Backend technologies.
 
 - 💬 Ask me about my experience with **JavaScript , ReactJS , NodeJS**. 
 
